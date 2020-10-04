@@ -1,0 +1,23 @@
+{
+  "name": "challenge-sequelize-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvelocity/challenge-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvelocity/challenge-sequelize/issues"
+  },
+  "homepage": "https://github.com/suvelocity/challenge-sequelize#readme",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "mysql2": "^2.2.5"
+  }
+}
