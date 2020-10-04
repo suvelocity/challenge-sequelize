@@ -1,5 +1,5 @@
 const mysql = require("mysql2/promise");
-const MySequelize = require("../_cloned-app");
+const { MySequelize } = require("../_cloned-app");
 const { Op } = require("../_cloned-app/Op/OpsSymbols");
 
 let mysqlCon;
